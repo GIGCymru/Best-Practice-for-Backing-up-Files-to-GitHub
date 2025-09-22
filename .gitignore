@@ -1,0 +1,60 @@
+# NHS Wales GitHub Best Practices - .gitignore template
+
+# Sensitive Files - NEVER commit these
+*.key
+*.pem
+*.p12
+*.pfx
+appsettings.json
+connectionStrings.config
+web.config
+app.config
+*.env
+.env.*
+secrets.json
+
+# Database Files
+*.mdb
+*.ldb
+*.accdb
+*.bak
+*.sql.bak
+
+# Log Files
+*.log
+logs/
+*.tmp
+
+# Build Outputs
+bin/
+obj/
+dist/
+build/
+node_modules/
+*.dll
+*.exe
+*.pdb
+
+# IDE Files
+.vs/
+.vscode/settings.json
+*.suo
+*.user
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backup Files
+*.backup
+*.old
+*~
+*.orig
+
+# NHS Wales Specific
+# Add any NHS Wales specific patterns here
+patient-data/
+confidential/
+temp-uploads/
