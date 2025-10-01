@@ -109,8 +109,8 @@ nhs-wales-project/
 └── .gitignore               # Files to exclude from version control
 ```
 
-#### 2. **Naming Conventions**
-- **Repositories:** `nhs-wales-[project-name]` (e.g., `nhs-wales-patient-portal`)
+#### 2. **Suggested Naming Conventions**
+- **Repositories:** `YOUR ORG-[project-name]` (e.g., `nhs-wales-patient-portal`)
 - **Branches:** `feature/[description]`, `bugfix/[description]`, `hotfix/[description]`
 - **Commits:** Clear, descriptive messages explaining what and why
 
