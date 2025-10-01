@@ -270,11 +270,6 @@ nhs-wales-health-analytics/
 
 ### ✅ Your First Steps
 
-#### Before You Begin
-- [ ] Complete NHS Wales GitHub training course
-- [ ] Obtain necessary approvals from IT Security
-- [ ] Identify team members who need access
-
 #### Repository Setup
 - [ ] Create repository with appropriate naming convention
 - [ ] Configure repository settings and permissions
@@ -310,7 +305,6 @@ nhs-wales-health-analytics/
 
 - **NHS Wales IT Helpdesk:** For technical issues and access requests
 - **GitHub Enterprise Support:** For platform-specific questions
-- **Internal Training:** Regular workshops on Git and GitHub best practices
 - **Documentation:** Comprehensive guides available on NHS Wales intranet
 
 ### Additional Resources
